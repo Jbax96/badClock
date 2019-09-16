@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\BadClockProblem\BadClockProblem\bin\Debug\BadClockProblem.exe.config
+C:\Users\user\source\repos\BadClockProblem\BadClockProblem\bin\Debug\BadClockProblem.exe
+C:\Users\user\source\repos\BadClockProblem\BadClockProblem\bin\Debug\BadClockProblem.pdb
+C:\Users\user\source\repos\BadClockProblem\BadClockProblem\obj\Debug\BadClockProblem.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BadClockProblem\BadClockProblem\obj\Debug\BadClockProblem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BadClockProblem\BadClockProblem\obj\Debug\BadClockProblem.exe
+C:\Users\user\source\repos\BadClockProblem\BadClockProblem\obj\Debug\BadClockProblem.pdb
